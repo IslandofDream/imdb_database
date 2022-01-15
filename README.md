@@ -8,19 +8,8 @@ IMDB에서 제공하는 tsv파일의 데이터를 다음과 같이 분석하였�
 
 따라서 다음과 같은 형태로 tsv의 파일들의 어트리뷰트를 파악하고 tsv들을 테이블화 할 수 있었습니다.
 
-![episodes](https://user-images.githubusercontent.com/70648111/149606464-b837b38e-cd3c-4167-8d10-c1cf89700117.png)
+![데이터정규화](https://user-images.githubusercontent.com/70648111/149606580-de431403-41e3-4bf2-9d44-3c46e1907fb1.png)
 
-![ratings](https://user-images.githubusercontent.com/70648111/149606468-8493e8ff-2f41-4ce5-aa9a-a2e6d779340e.png)
-
-![title basic](https://user-images.githubusercontent.com/70648111/149606469-67f90db0-4955-4475-ac11-885542237c16.png)
-
-![akas](https://user-images.githubusercontent.com/70648111/149606473-3e610f16-3d25-4a08-8858-72ec6901aae2.png)
-
-![crew](https://user-images.githubusercontent.com/70648111/149606443-ed671d40-4ca5-4604-8cf7-0b285e09e1eb.png)
-
-![principals](https://user-images.githubusercontent.com/70648111/149606467-4996dfcc-ee93-4deb-af8d-2a816ef4bb26.png)
-
-![crew](https://user-images.githubusercontent.com/70648111/149606443-ed671d40-4ca5-4604-8cf7-0b285e09e1eb.png)
 
 # **◎E-R 모델링**
 
